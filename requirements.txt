@@ -1,2 +1,6 @@
 langchain
 pydantic
+asyncio
+aiofiles
+rich
+loguru
